@@ -3,9 +3,6 @@ e_commerce application backend useing node.js(express.js) framwork and mongo dat
 ## How to run the application
 Using cmd, inside the project directory run the following command line
 - nodemon index.js
-## Project run declaration
-...\node.js_streaming>npm run build</br>
-...\node.js_streaming>npm run start
 
 ## Dependecies
     npm i express
