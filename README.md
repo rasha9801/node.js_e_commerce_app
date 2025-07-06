@@ -1,5 +1,5 @@
 # e_commerce_app
-e_commerce application backend using node.js(express.js) framwork and mongo database.
+e_commerce application backend using NodeJS, Express and MongoDB.
 ## How to run the application
 Using cmd, inside the project directory run the following command line
 - nodemon index.js
