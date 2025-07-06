@@ -9,10 +9,6 @@ Using cmd, inside the project directory run the following command line
     npm i express-async-errors
     npm i mongoose
     npm i bcrypt
-    npm i helmet
     npm i joi
-    npm i joi-objectid
     npm i jsonwebtoken
     npm i morgan
-    npm i winston
-    npm i winston-mongodb
